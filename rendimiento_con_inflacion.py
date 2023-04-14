@@ -6,7 +6,7 @@ import quandl
 
 # Dirección de la API de quandl
 
-QUANDL_API_KEY = 'NnEa-voMbM_oYYc-KN_P'
+QUANDL_API_KEY = '{API KEY}'
 quandl.ApiConfig.api_key = QUANDL_API_KEY
 
 # Descarga de datos (únicamente precios de cierre)
